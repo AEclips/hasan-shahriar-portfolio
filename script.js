@@ -551,7 +551,7 @@ document.addEventListener("DOMContentLoaded", () => {
     all: `<strong>SYNTHESIS MODE:</strong> Combining BBA marketing &amp; financial strategy (Pathao Super-App study, DBBL vs. IBBL 5Y ratios, Google Digital Marketing) with Python econometrics (BUS-201), shipped Android/web apps (MuktoFlow V2.0 APK, UniGrade), and AEclipse motion storytelling.`,
     business: `<strong>BUSINESS, MARKETING &amp; FINANCE LENS:</strong> BBA strategist at DIU (Batch 68-D), Google Digital Garage certified (2024), Active Member of DIU Business &amp; Education Club, and former HealthOS Tele Purchase Executive.`,
     tech: `<strong>AI, PYTHON &amp; TECH BUILDER LENS:</strong> Shipping practical tools with Python (Pandas, NumPy, SciPy, Seaborn), SQL MIS, React, and Google AI Studio — including MuktoFlow V2.0 (Android APK + Gemini API), UniGrade CGPA Planner, and DokanPOS.`,
-    media: `<strong>AECLIPSE CREATIVE AGENCY &amp; MOTION LENS:</strong> Founder &amp; Lead Creative at AEclipse and UY Lab-trained Video Editor (After Effects, Premiere Pro, Photoshop, Illustrator, CapCut) with 16+ published multi-platform Shorts &amp; Reels.`,
+    media: `<strong>AECLIPSE CREATIVE AGENCY &amp; MOTION LENS:</strong> Founder &amp; Creative Director at AEclipse (32+ videos, 16K+ views on @AEclipse_1), UY Lab-trained Video Editor (After Effects, Premiere Pro, Photoshop, Illustrator, CapCut), and DIU OSA Student Associate candidate.`,
   };
 
   lensBtns.forEach((btn) => {
@@ -804,14 +804,14 @@ document.addEventListener("DOMContentLoaded", () => {
       ],
     },
     dokanpos: {
-      code: "STR // 04 — PATHAO LTD. SUPER-APP & FINTECH TRANSFORMATION STUDY",
-      title: "Pathao Ltd. — Digital Transformation, 3PL Logistics & Pathao Pay Case Study",
+      code: "STR // 04 — BKASH LTD. MFS DOMINANCE & PATHAO SUPER-APP STUDIES",
+      title: "bKash Limited MFS Ecosystem & Pathao Ltd. Super-App Case Studies",
       summary:
-        "Comprehensive strategic business research examining how Pathao evolved from a 2015 stealth e-commerce delivery team in Dhaka into a $100M+ Bangladeshi Super-App serving 10M+ users and 500,000+ gig-economy earners.",
+        "Two institutional fintech & strategic management investigations authored at Daffodil International University: a 135 KB deep analytical dossier on bKash Limited's market dominance and a case study on Pathao's 4-pillar super-app transformation.",
       specs: [
-        "🛵 <strong>Four-Pillar Super-App Ecosystem:</strong> Analyzed unit economics across Ride-Sharing (bikes/cars), Pathao Food (hyperlocal Q-commerce), Pathao Courier (64-district 3PL network handling <strong>100,000+ daily parcels</strong> with ~50% market share), and Pathao Pay.",
-        "💳 <strong>FinTech &amp; BNPL Innovation:</strong> Evaluated Pathao Pay’s Bangladesh Bank PSP license, digital wallet loops, debit card integration, and 'Pay Later' micro-credit for Gen-Z consumers.",
-        "📊 <strong>VC Capital &amp; SWOT Matrix:</strong> Documented $50M+ in institutional funding (Go-Jek, VentureSouq, Battery Road Digital Holdings), post-pandemic EBITDA profitability, and algorithmic route optimization.",
+        "📱 <strong>bKash 84M+ User Ecosystem ($2B Unicorn):</strong> Analyzed the Bottom-of-the-Pyramid (BoP) STP marketing framework connecting urban wage-earners with rural families, expanding to 84M+ verified accounts, 800K+ Bangla QR merchants, and 109% net profit surge to 661 Crore BDT in FY2025.",
+        "🛵 <strong>Pathao Four-Pillar Ecosystem:</strong> Evaluated unit economics across Ride-Sharing, Pathao Food, 64-district 3PL Courier (handling <strong>100,000+ daily parcels</strong> with ~50% market share), and Pathao Pay PSP digital wallet.",
+        "💳 <strong>Institutional Funding & Governance:</strong> Documented foreign direct investments from BRAC Bank, Ant Group/Alipay, SoftBank Vision Fund 2, IFC, and Go-Jek.",
       ],
     },
     finresearch: {
@@ -826,14 +826,14 @@ document.addEventListener("DOMContentLoaded", () => {
       ],
     },
     aeclipse: {
-      code: "MED // 06 — AECLIPSE CREATIVE AGENCY & MOTION PRODUCTION",
-      title: "AEclipse — Founder, Brand Strategist & Multi-Platform Motion Pipeline",
+      code: "MED // 06 — AECLIPSE CREATIVE AGENCY & MOTION PIPELINE",
+      title: "AEclipse — Creative Director & 32+ Multi-Platform Video Pipeline",
       summary:
-        "Founded AEclipse to deliver AI-powered visual storytelling, motion graphics, and psychological/historical video essays across YouTube Shorts, Facebook Reels, and Instagram Reels.",
+        "Founded AEclipse to produce AI-generated visual storytelling, motion design, and high-retention short videos on stoicism, leadership psychology, and world history across YouTube Shorts, Facebook Reels, and Instagram Reels.",
       specs: [
-        "📈 <strong>Verified Multi-Platform Reach:</strong> Produced and tracked 16+ original episodes in the AEclipse Content Tracker — highlighted by Ep. 09 <em>'Never Explain Yourself to Anyone'</em> (<strong>2,053 views</strong>) and Ep. 13 <em>'Disappear When They Take You for Granted'</em> (<strong>1,401 views</strong>).",
-        "🎬 <strong>Professional Post-Production Suite:</strong> Certified at UY Lab; combines Adobe After Effects, Premiere Pro, Photoshop, Illustrator, and CapCut with AI visual synthesis (Gemini Omni / Veo &amp; Master Prompt frameworks).",
-        "🧠 <strong>Strategic Narrative Themes:</strong> Scripts original essays on stoic emotional control (<em>'Stop Reacting to Everything'</em>), negotiation power, geopolitics, and leadership psychology.",
+        "📈 <strong>32+ Published Videos &amp; 16,000+ Combined Views:</strong> Produced 32+ original episodes tracked in the AEclipse Content Tracker with 16K+ total views (<a href=\"https://www.youtube.com/@AEclipse_1\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color:var(--red);font-weight:700;\">youtube.com/@AEclipse_1 ↗</a>).",
+        "🎬 <strong>Full Creative Production Pipeline:</strong> Handles the complete workflow from concept scriptwriting, Midjourney/Veo prompt engineering, and voiceover synchronization to dynamic typography in Adobe Premiere Pro and After Effects.",
+        "🎯 <strong>On-Campus Creative Leadership:</strong> Applying visual storytelling expertise as Student Associate (Graphic Design &amp; Video Editing) candidate at DIU Office of the Students’ Affairs (OSA) under the Learn &amp; Earn initiative.",
       ],
     },
   };
