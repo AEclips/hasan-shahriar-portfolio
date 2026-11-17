@@ -551,7 +551,7 @@ document.addEventListener("DOMContentLoaded", () => {
     all: `<strong>SYNTHESIS MODE:</strong> Combining BBA marketing &amp; financial strategy (Pathao Super-App study, DBBL vs. IBBL 5Y ratios, Google Digital Marketing) with Python econometrics (BUS-201), shipped Android/web apps (MuktoFlow V2.0 APK, UniGrade), and AEclipse motion storytelling.`,
     business: `<strong>BUSINESS, MARKETING &amp; FINANCE LENS:</strong> BBA strategist at DIU (Batch 68-D), Google Digital Garage certified (2024), Active Member of DIU Business &amp; Education Club, and former HealthOS Tele Purchase Executive.`,
     tech: `<strong>AI, PYTHON &amp; TECH BUILDER LENS:</strong> Shipping practical tools with Python (Pandas, NumPy, SciPy, Seaborn), SQL MIS, React, and Google AI Studio — including MuktoFlow V2.0 (Android APK + Gemini API), UniGrade CGPA Planner, and DokanPOS.`,
-    media: `<strong>AECLIPSE CREATIVE AGENCY &amp; MOTION LENS:</strong> Founder &amp; Creative Director at AEclipse (32+ videos, 16K+ views on @AEclipse_1), UY Lab-trained Video Editor (After Effects, Premiere Pro, Photoshop, Illustrator, CapCut), and DIU OSA Student Associate candidate.`,
+    media: `<strong>AECLIPSE CREATIVE AGENCY &amp; MOTION LENS:</strong> Founder &amp; Creative Director at AEclipse (43+ videos, 19K+ views on @AEclipse_1), UY Lab-trained Video Editor (After Effects, Premiere Pro, Photoshop, Illustrator, CapCut), and DIU OSA Student Associate candidate.`,
   };
 
   lensBtns.forEach((btn) => {
@@ -827,11 +827,11 @@ document.addEventListener("DOMContentLoaded", () => {
     },
     aeclipse: {
       code: "MED // 06 — AECLIPSE CREATIVE AGENCY & MOTION PIPELINE",
-      title: "AEclipse — Creative Director & 32+ Multi-Platform Video Pipeline",
+      title: "AEclipse — Creative Director & 43+ Multi-Platform Video Pipeline",
       summary:
         "Founded AEclipse to produce AI-generated visual storytelling, motion design, and high-retention short videos on stoicism, leadership psychology, and world history across YouTube Shorts, Facebook Reels, and Instagram Reels.",
       specs: [
-        "📈 <strong>32+ Published Videos &amp; 16,000+ Combined Views:</strong> Produced 32+ original episodes tracked in the AEclipse Content Tracker with 16K+ total views (<a href=\"https://www.youtube.com/@AEclipse_1\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color:var(--red);font-weight:700;\">youtube.com/@AEclipse_1 ↗</a>).",
+        "📈 <strong>43+ Published Videos &amp; 19,000+ Combined Views:</strong> Produced 43+ original episodes tracked in the AEclipse Content Tracker with 19K+ total views (<a href=\"https://www.youtube.com/@AEclipse_1\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color:var(--red);font-weight:700;\">youtube.com/@AEclipse_1 ↗</a>).",
         "🎬 <strong>Full Creative Production Pipeline:</strong> Handles the complete workflow from concept scriptwriting, Midjourney/Veo prompt engineering, and voiceover synchronization to dynamic typography in Adobe Premiere Pro and After Effects.",
         "🎯 <strong>On-Campus Creative Leadership:</strong> Applying visual storytelling expertise as Student Associate (Graphic Design &amp; Video Editing) candidate at DIU Office of the Students’ Affairs (OSA) under the Learn &amp; Earn initiative.",
       ],
